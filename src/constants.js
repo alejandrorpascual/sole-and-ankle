@@ -9,10 +9,10 @@ export const COLORS = {
   },
   primary: 'hsl(340deg, 65%, 47%)',
   secondary: 'hsl(240deg, 60%, 63%)',
-};
+}
 
 export const WEIGHTS = {
   normal: 500,
   medium: 600,
   bold: 800,
-};
+}

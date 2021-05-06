@@ -93,6 +93,6 @@ const SHOES = [
     releaseDate: Date.now() - 1000 * 60 * 60 * 24 * 120,
     numOfColors: 1,
   },
-];
+]
 
-export default SHOES;
+export default SHOES
